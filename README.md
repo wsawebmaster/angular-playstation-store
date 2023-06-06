@@ -316,10 +316,6 @@ Open `card.component.ts` file and update the code
 
 `ng g c components/menu-bar/menu-bar-item`
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-03:27 Refatoração
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -327,6 +323,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+## 💻 Projeto
+
+[See project in execution](https://angular-playstation-store.vercel.app/)
 ## References
 [Gradient background](https://cssgradient.io/)
 
